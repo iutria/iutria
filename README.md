@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iutria
-- 👀 I’m interested in Java, Html, Css, js, php. 
-- 🌱 I’m currently learning Angular, laravel
-- 💞️ I’m looking to collaborate on Java, flutter, php
+- 👀 I’m interested in Java, Html, Css, js, .net. 
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on Java, flutter
 - 📫 How to reach me ...
