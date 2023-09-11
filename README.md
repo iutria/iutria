@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java, Html, Css, js, .net, flutter
 - 🌱 I’m currently learning Angular, flutter web
 - 💞️ I’m looking to collaborate on Java, flutter, .net
-- 📫 How to reach me ...
+- 📫 ivanutria.17@gmail.com
